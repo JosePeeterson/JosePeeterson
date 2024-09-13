@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Peeterson</h1>
-<h3 align="center">Machine Learning and Data Scientist with interest in financial applications</h3>
+<h3 align="center">Data Scientist with an interest in financial applications</h3>
 
 - 🔭 I’m currently working on **on realized volatitliy prediction and other finance projects.**
 
