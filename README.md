@@ -20,7 +20,6 @@
 
 <h2 align="center">Technical Skills</h2>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 ### Languages:
@@ -43,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
 <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="scipy" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg](https://scipy.org/images/logo.svg)" alt="scipy" width="40" height="40"/>
 </a>
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/statsmodels/statsmodels-icon.svg" alt="statsmodels" width="40" height="40"/>
