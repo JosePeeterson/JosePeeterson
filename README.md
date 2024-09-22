@@ -42,10 +42,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
 <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg](https://scipy.org/images/logo.svg)" alt="scipy" width="40" height="40"/>
+    <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
 </a>
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/statsmodels/statsmodels-icon.svg" alt="statsmodels" width="40" height="40"/>
+    <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/>
 </a>
 
 ##### Data Manipulation & Analysis -->
@@ -53,7 +53,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
 <a href="https://pycaret.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pycaret/pycaret/master/icons/pycaret-icon.svg" alt="pycaret" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*6Mg-XbBzSCzJMJEZzE6mLQ.png" alt="pycaret" width="80" height="40"/>
 </a>
 
 ##### Machine Learning & Deep Learning -->
@@ -70,24 +70,24 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="torch" width="40" height="40"/>
 </a>
 <a href="https://pytorch-forecasting.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pycaret/pycaret/main/icons/pytorch_forecasting-icon.svg" alt="pytorch_forecasting" width="40" height="40"/>
+    <img src="https://pytorch-forecasting.readthedocs.io/en/stable/_static/logo.svg" width="40" height="60"/>
 </a>
 <a href="https://www.pytorchlightning.ai/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch_lightning/pytorch_lightning-icon.svg" alt="pytorch_lightning" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/98025367?s=280&v=4" alt="pytorch_lightning" width="40" height="40"/>
 </a>
 <a href="https://docs.pymc.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pymc/pymc-icon.svg" alt="pymc3" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GJdr6YaT9dfT7dS_cvH7tt42zy-0P6XeWGbgzdqkYqS0DB_qQo9eRH9dEVDoGefSUnE&usqp=CAU" alt="pymc3" width="80" height="40"/>
 </a>
 <a href="https://optuna.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/optuna/optuna-icon.svg" alt="optuna" width="40" height="40"/>
+    <img src="https://www.preferred.jp/wp-content/themes/preferred/assets/img/projects/optuna/pict01.jpg" alt="optuna" width="60" height="40"/>
 </a>
 <a href="https://github.com/scikit-learn-contrib/boruta_py" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/borutapy/borutapy-icon.svg" alt="BorutaPy" width="40" height="40"/>
+    <img src="" alt="BorutaPy" width="40" height="40"/>
 </a>
 
 ##### Time Series & Forecasting -->
 <a href="https://cesium-ml.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cesium/cesium-icon.svg" alt="cesium" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/17838960?s=280&v=4" alt="cesium" width="40" height="40"/>
 </a>
 <a href="https://cran.r-project.org/web/packages/tscount/index.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tscount/tscount-icon.svg" alt="tscount" width="40" height="40"/>
@@ -100,16 +100,16 @@
 
 ##### Data Visualization -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/>
 </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/>
 </a>
 <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ggplot2/ggplot2-icon.svg" alt="ggplot" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot" width="60" height="40"/>
 </a>
 <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/folium/folium-icon.svg" alt="folium" width="40" height="40"/>
+    <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="folium" width="60" height="40"/>
 </a>
 
 ##### Clustering & Dimensionality Reduction -->
@@ -117,25 +117,25 @@
     <img src="https://www.vectorlogo.zone/logos/hdbscan/hdbscan-icon.svg" alt="HDBSCAN" width="40" height="40"/>
 </a>
 <a href="https://umap-learn.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/umap/umap-icon.svg" alt="UMAP" width="40" height="40"/>
+    <img src="https://umap-learn.readthedocs.io/en/latest/_images/logo_large.png" alt="UMAP" width="120" height="40"/>
 </a>
 
 ##### Web Scraping & Text Processing -->
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/beautifulsoup/beautifulsoup-icon.svg" alt="beautifulsoup" width="40" height="40"/>
+    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="beautifulsoup" width="120" height="40"/>
 </a>
 <a href="https://docs.python.org/3/library/re.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="re" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:489/1*afrsnE-0Cd8J0mHF4rdItQ.jpeg" alt="re" width="80" height="40"/>
 </a>
 
 ##### Data Storage & Serialization -->
 <a href="https://docs.python.org/3/library/pickle.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pickle/pickle-icon.svg" alt="pickle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/FriendsOfPHP/pickle_logo/master/pickle.png" alt="pickle" width="80" height="40"/>
 </a>
 
 ##### Missing Data Handling -->
 <a href="https://github.com/ResidentMario/missingno" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/missingno/missingno-icon.svg" alt="missingno" width="40" height="40"/>
+    <img src="https://360digitmg.com/uploads/blog/missingno.png" alt="missingno" width="80" height="60"/>
 </a>
 
 ##### Testing & Debugging -->
@@ -175,18 +175,18 @@
 
 #### Integrated Development Environments (IDEs) & Code Editors
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_visual_studio_code/microsoft_visual_studio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter_project/jupyter_project-icon.svg" alt="Jupyter Notebook" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/>
 </a>
 <a href="https://rstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/>
+    <img src="https://www.databricks.com/sites/default/files/2018/06/RStudio-Logo-All-Color-partners.png" alt="RStudio" width="80" height="40"/>
 </a>
 
 #### Code Assistance & Automation
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Copilot" width="40" height="40"/>
+    <img src="https://bmrkasr4.myexperro.com/mm-images/github-copilot-0pa7fzvw.jpg" alt="GitHub Copilot" width="80" height="40"/>
 </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/>
@@ -200,7 +200,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorBoard" width="40" height="40"/>
 </a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>
+    <img src="https://www.mlflow.org/docs/1.24.0/_static/MLflow-logo-final-black.png" alt="MLflow" width="80" height="40"/>
 </a>
 <a href="https://visruler.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visruler/visruler-icon.svg" alt="Visruler" width="40" height="40"/>
@@ -211,7 +211,7 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Sagemaker" width="40" height="40"/>
+    <img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" alt="AWS Sagemaker" width="120" height="60"/>
 </a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="BigQuery" width="40" height="40"/>
@@ -223,7 +223,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="80" height="40"/>
 </a>
 
 #### Containerization & Orchestration
@@ -236,15 +236,15 @@
 
 #### Data Visualization & Business Intelligence
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+    <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="Tableau" width="80" height="80"/>
 </a>
 
 #### Simulation & Mathematical Tools
 <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mathworks/mathworks-icon.svg" alt="Simulink" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="80" height="40"/>
 </a>
 <a href="https://www.ptc.com/en/products/mathcad" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mathcad/mathcad-icon.svg" alt="Mathcad" width="40" height="40"/>
+    <img src="https://pbs.twimg.com/profile_images/1523724769/TwitterMCIcon_400x400.png" alt="Mathcad" width="80" height="40"/>
 </a>
 
 #### API Development & Testing
@@ -274,10 +274,10 @@
 
 #### Code & Software Analysis
 <a href="https://scitools.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scitools/scitools-icon.svg" alt="Sci-tools Understand" width="40" height="40"/>
+    <img src="https://scitools.com/images/UnderstandLogoDark.png" alt="Sci-tools Understand" width="120" height="40"/>
 </a>
 
 #### Collaboration & Cloud Notebooks
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="Google Colab" width="40" height="40"/>
 </a>
