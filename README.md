@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jose Peeterson</h1>
 <h3 align="center">Aspiring Investment Data Scientist</h3>
 
-- 🔭 I’m currently working on **realized volatitliy prediction and other finance projects.**
+<!-- - 🔭 I’m currently working on **realized volatitliy prediction and other finance projects.** -->
 
-- 🌱 I’m currently learning **ML for finance**
+<!-- - 🌱 I’m currently learning **ML for finance** -->
 
-- 👯 I’m looking to collaborate on **open source finance projects**
+<!-- - 👯 I’m looking to collaborate on **open source finance projects** -->
 
-- 💬 Ask me about **AI/ML in finance.**
+<!-- - 💬 Ask me about **AI/ML in finance.** -->
 
 - 📫 How to reach me **josepeeterson92@gmail.com**
 
