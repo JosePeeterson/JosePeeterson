@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Peeterson</h1>
+<img width="1200" height="624" alt="image" src="https://github.com/user-attachments/assets/feaeb422-70eb-4f86-a1f0-fd44db029483" /><img width="919" height="527" alt="image" src="https://github.com/user-attachments/assets/49bf83ea-5be0-4026-9ecd-16c7d9fe897b" /><h1 align="center">Hi 👋, I'm Jose Peeterson</h1>
 <!-- <h3 align="center">Aspiring Investment Data Scientist</h3>  -->
 
 <!-- - 🔭 I’m currently working on **realized volatitliy prediction and other finance projects.** -->
@@ -95,10 +95,15 @@
 
 ##### Big Data & Distributed Computing -->
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="pyspark" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439" alt="pyspark" width="40" height="40"/>
 </a>
 
-##### Data Visualization -->
+##### Streaming Data -->
+<a href="https://www.confluent.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Confluent_Logo.png" alt="confluent" width="40" height="40"/>
+</a>
+
+##### Data Visualization & Dashboard -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/>
 </a>
@@ -110,6 +115,12 @@
 </a>
 <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
     <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="folium" width="60" height="40"/>
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" alt="folium" width="60" height="40"/>
+</a>
+<a href="https://docs.databricks.com/aws/en/dashboards" target="_blank" rel="noreferrer">
+    <img src="https://docs.databricks.com/aws/en/assets/images/lakeview-published-sample-retail-2caa67942a8a28edcdfd712b1c701cf9.png" alt="Databricks SQL dashboard" width="120" height="40"/>
 </a>
 
 ##### Clustering & Dimensionality Reduction -->
@@ -138,13 +149,50 @@
     <img src="https://360digitmg.com/uploads/blog/missingno.png" alt="missingno" width="80" height="60"/>
 </a>
 
-##### Testing & Debugging -->
+#### Data Version Control -->
+<a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="80" height="80"/>
+</a>
+
+##### Data Validation, Testing & Debugging -->
+<a href="https://greatexpectations.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/31670619?s=200&v=4" alt="great_expectations" width="40" height="40"/>
+</a>
 <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="40" height="40"/>
 </a>
 
 
+##### Orchestration & CI/CD -->
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1200px-AirflowLogo.svg.png" alt="apache_airflow" width="40" height="40"/>
+</a>
+<a href="https://docs.databricks.com/aws/en/jobs" target="_blank" rel="noreferrer">
+    <img src="https://docs.databricks.com/aws/en/assets/images/example-job-overview-102d0d56e70fea57899b031eb49ae81b.png" alt="databricks-jobs" width="40" height="40"/>
+</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github_actions" width="40" height="40"/>
+</a>
 
+##### Monitoring & Alerts -->
+<a href="https://www.evidentlyai.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/75031056?s=200&v=4" alt="EvidentlyAI" width="40" height="40"/>
+</a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/230px-Prometheus_software_logo.svg.png?20200109082328" alt="prometheus" width="40" height="40"/>
+</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1024px-Grafana_logo.svg.png?20230113183101" alt="grafana" width="120" height="40"/>
+</a>
+<a href="https://docs.databricks.com/aws/en/sql/user/alerts/" target="_blank" rel="noreferrer">
+    <img src="https://docs.databricks.com/aws/en/assets/images/listing-page-dec5d5514dadf0753cfa4cd160a87abc.png" alt="Databricks SQL alerts" width="120" height="40"/>
+</a>
+
+
+##### API development -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/1200px-FastAPI_logo.svg.png" alt="Databricks SQL alerts" width="120" height="40"/>
+</a>
 
 
 ### DevOps & Tools:
