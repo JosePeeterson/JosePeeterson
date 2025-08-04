@@ -1,4 +1,4 @@
-<img width="1200" height="624" alt="image" src="https://github.com/user-attachments/assets/feaeb422-70eb-4f86-a1f0-fd44db029483" /><img width="919" height="527" alt="image" src="https://github.com/user-attachments/assets/49bf83ea-5be0-4026-9ecd-16c7d9fe897b" /><h1 align="center">Hi 👋, I'm Jose Peeterson</h1>
+Hi 👋, I'm Jose Peeterson</h1>
 <!-- <h3 align="center">Aspiring Investment Data Scientist</h3>  -->
 
 <!-- - 🔭 I’m currently working on **realized volatitliy prediction and other finance projects.** -->
