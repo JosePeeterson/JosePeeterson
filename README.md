@@ -1,4 +1,5 @@
-Hi 👋, I'm Jose Peeterson</h1>
+
+<h1>Hi 👋, I'm Jose Peeterson</h1>
 <!-- <h3 align="center">Aspiring Investment Data Scientist</h3>  -->
 
 <!-- - 🔭 I’m currently working on **realized volatitliy prediction and other finance projects.** -->
@@ -28,9 +29,6 @@ Hi 👋, I'm Jose Peeterson</h1>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
 
@@ -86,11 +84,17 @@ Hi 👋, I'm Jose Peeterson</h1>
 </a>
 
 ##### Time Series & Forecasting -->
+<a href="https://tsfresh.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://tsfresh.readthedocs.io/en/latest/_images/tsfresh_logo.svg" alt="tsfresh" width="40" height="40"/>
+</a>
 <a href="https://cesium-ml.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/17838960?s=280&v=4" alt="cesium" width="40" height="40"/>
 </a>
 <a href="https://cran.r-project.org/web/packages/tscount/index.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tscount/tscount-icon.svg" alt="tscount" width="40" height="40"/>
+</a>
+<a href="https://pytorch-forecasting.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://pytorch-forecasting.readthedocs.io/en/stable/_static/logo.svg" alt="pytorch_forecasting" width="40" height="40"/>
 </a>
 
 ##### Big Data & Distributed Computing -->
@@ -129,19 +133,6 @@ Hi 👋, I'm Jose Peeterson</h1>
 </a>
 <a href="https://umap-learn.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://umap-learn.readthedocs.io/en/latest/_images/logo_large.png" alt="UMAP" width="120" height="40"/>
-</a>
-
-##### Web Scraping & Text Processing -->
-<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="beautifulsoup" width="120" height="40"/>
-</a>
-<a href="https://docs.python.org/3/library/re.html" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:489/1*afrsnE-0Cd8J0mHF4rdItQ.jpeg" alt="re" width="80" height="40"/>
-</a>
-
-##### Data Storage & Serialization -->
-<a href="https://docs.python.org/3/library/pickle.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/FriendsOfPHP/pickle_logo/master/pickle.png" alt="pickle" width="80" height="40"/>
 </a>
 
 ##### Missing Data Handling -->
@@ -195,24 +186,31 @@ Hi 👋, I'm Jose Peeterson</h1>
 </a>
 
 
-### DevOps & Tools:
+#### Containerization -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
-### Databases:
+### Databases  -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 
-### Cloud Platforms:
+### Cloud Platforms  -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png" alt="databricks" width="80" height="60"/></a>
 
 
+##### Web Scraping & Text Processing -->
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="beautifulsoup" width="120" height="40"/>
+</a>
+<a href="https://docs.python.org/3/library/re.html" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:489/1*afrsnE-0Cd8J0mHF4rdItQ.jpeg" alt="re" width="80" height="40"/>
+</a>
 
 
 
@@ -243,15 +241,12 @@ Hi 👋, I'm Jose Peeterson</h1>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
 
-#### Machine Learning & AI Tools
-<a href="https://www.tensorflow.org/tensorboard" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorBoard" width="40" height="40"/>
+#### Code & Software flow Analysis
+<a href="https://scitools.com/" target="_blank" rel="noreferrer">
+    <img src="https://scitools.com/images/UnderstandLogoDark.png" alt="Sci-tools Understand" width="120" height="40"/>
 </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.mlflow.org/docs/1.24.0/_static/MLflow-logo-final-black.png" alt="MLflow" width="80" height="40"/>
-</a>
-<a href="https://visruler.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visruler/visruler-icon.svg" alt="Visruler" width="40" height="40"/>
+<a href="https://code2flow.com/" target="_blank" rel="noreferrer">
+    <img src="https://code2flow.com/68876a1ec365dca26841bc050109474c.svg" alt="code2flow" width="120" height="40"/>
 </a>
 
 #### Cloud Platforms & Data Processing
@@ -274,13 +269,6 @@ Hi 👋, I'm Jose Peeterson</h1>
     <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="80" height="40"/>
 </a>
 
-#### Containerization & Orchestration
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</a>
 
 #### Data Visualization & Business Intelligence
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
@@ -318,11 +306,6 @@ Hi 👋, I'm Jose Peeterson</h1>
 </a>
 <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/alteryx/alteryx-icon.svg" alt="Alteryx" width="40" height="40"/>
-</a>
-
-#### Code & Software Analysis
-<a href="https://scitools.com/" target="_blank" rel="noreferrer">
-    <img src="https://scitools.com/images/UnderstandLogoDark.png" alt="Sci-tools Understand" width="120" height="40"/>
 </a>
 
 #### Collaboration & Cloud Notebooks
