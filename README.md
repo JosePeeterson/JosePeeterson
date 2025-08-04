@@ -10,7 +10,7 @@
 
 <!-- - 💬 Ask me about **AI/ML in finance.** -->
 
-- 📫 How to reach me **josepeeterson92@gmail.com**
+- 📫 Reach me by Email: **josepeeterson92@gmail.com**
 
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
